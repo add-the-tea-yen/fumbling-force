@@ -11,3 +11,7 @@ https://css-tricks.com/look-ma-no-media-queries-responsive-layouts-using-css-gri
 https://www.w3schools.com/css/css_rwd_grid.asp
 
 git check out and commit to organiseByDate
+- figure out how astro works
+- sort by month and year into a list (get data and put it in the layout file)
+- expand list (use: https://www.w3schools.com/howto/howto_js_collapsible.asp)
+- add name of the thing
